@@ -1,0 +1,8 @@
+PyMuPDF
+transformers
+torch
+pymongo
+yake
+concurrent-log-handler
+cohere
+python-dotenv
