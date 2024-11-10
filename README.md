@@ -60,8 +60,3 @@ This project is designed to create a dynamic, efficient pipeline that ingests an
 - **Concurrency**: This pipeline processes documents in parallel, optimizing speed and resource usage.
 - **Metrics**: Logs time taken per document and overall speed. Detailed metrics can be found in the `performance.log`.
 
-
-
---- 
-
-This README provides a clear guide for users to set up, understand, and use the project effectively. Let me know if you'd like to include any additional sections.
