@@ -1,7 +1,8 @@
 import time
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-uri = "mongodb+srv://ashupathak1610:HhpeLyBtJZLvs5Js@cluster1.kf54v.mongodb.net/?retryWrites=true&w=majority&ssl=true&appName=Cluster1"
+uri = "your_url"
+
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
 db = client['pdf_database']
